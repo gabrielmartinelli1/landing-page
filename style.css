@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Bebas+Neue&display=swap');
+
+   
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: "Bebas Neue", sans-serif;
+}
+
+.container {
+    height: 400px;
+    width: 280px;
+    border-radius: 20px;
+    background-color: #ffffff;
+    text-align: center;
+    border-top: 30px solid #ffffff;
+    margin: 10px;
+    position: absolute;
+    left: 300px;
+    bottom: 150px;
+    border-color: rgb(0, 0, 0);
+    
+    
+    
+}
+
+.botao {
+    background-color: #00ADB5;
+    height: 30px;
+    width: 100px;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.img {
+    position: absolute;
+    left: 500px;
+    top: 0px;
+    border-radius: 0 20px 0 20px;
+}
+
+.cabeça {
+    background-color: #00ADB5;
+    color: rgb(0, 0, 0);
+
+}
+
+.head {
+    background-color: #EEEEEE;
+}
+
+.rodape {
+    text-align: center;
+    background-color: #EEEEEE;
+    bottom: 0;
+    height: 55px;
+    width: 100%;
+    border-style: solid;
+    position: fixed;
+    font-size: 30px;
+}
+
+.fa-whatsapp, .fa-instagram, .fa-youtube {
+    text-align: center;
+    color: black;
+    font-size: 30px;
+}
+
+
